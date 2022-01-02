@@ -3,7 +3,7 @@
 
 ### Welcome to my github page
 
-I am undergraduate a Software Engineer and  computer science student passionate in learning and working on web development projects with languages such as javascript , python, java and their frameworks. I am generally working on open source projects or personal projects to grow my skills up, though i also have interest in other fields.
+I am an undergraduate Software Engineer and  a computer science student passionate in learning and working on web development projects with languages such as javascript , python, java and their frameworks. I am generally working on open source projects or personal projects to grow my skills up, though i also have interest in other fields.
 
 - 🔭 I’m currently working on University Of The People  projects, and personal projects involving my skills in bash shell, python, java, jaascript and css.
 
