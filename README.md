@@ -24,7 +24,7 @@
 - Land a remote job in web development or data analytics
 
 ### 📫 Let's Connect
-- 💼 [linkedin.com/in/catherine-onyango] (#)
+- 💼 linkedin.com/in/catherine-onyango
 - 💻 [Portfolio]*(coming soon)*  
 - 📬 Email: *achiengcatherine431@gmail.com*
 
